@@ -1,1 +1,2 @@
-cat hello, word
+#!/bin/bash
+echo 'hello, world' > file | cat file
