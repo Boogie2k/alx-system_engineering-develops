@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -R | sort | wc -l 
+ls -all -R|grep drw |wc -l
